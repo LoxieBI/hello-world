@@ -1,2 +1,2 @@
 # hello-world
-Sample Repository
+Bond Intelligence sample repository for research and architecture webapi examples
